@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppProject</string>
+    <string name="hint_name">Name</string>
+    <string name="button_send">Send</string>
+    <string name="hint_surname">Surname</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="hint_password">Password</string>
+    <string name="registration">Registration</string>
+    <string name="textview">TextView</string>
+    <string name="check_your_place_in_the_queue">Call +48 758-392-923 or check here place in the queue</string>
+
+</resources>
